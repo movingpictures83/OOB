@@ -1,0 +1,2 @@
+Prefix plugins/OOB/example/
+Plugin OOB inputfile none outputfile output.rds
